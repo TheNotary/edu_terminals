@@ -1,0 +1,12 @@
+GEM
+  specs:
+    redcarpet (3.4.0)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  redcarpet
+
+BUNDLED WITH
+   1.16.1
