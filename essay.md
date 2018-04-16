@@ -16,19 +16,47 @@ Rough Notes:
   -
 
 
-###### Section 1 - How Do I Even Install Basic Web API Tools?
-  - A terminal comes with windows... but it really sucks hard
-  - A terminal comes with git, and is decent
-  - What makes a good terminal?
-
-
-###### Section 2 - Terminals are Just like Folder Browsing but more powerful
-  - Let's do a side-by-side comparison
-
-
-###### Section 3 - What are Commands and Arguments?
+###### Section 1 - Basic Web API Tools?
   -
-  -
+
+
+###### Section 2 - All about terminals
+  - Terminals!
+    - A terminal comes with windows... but it really sucks hard
+    - A terminal comes with git, and is decent
+    - What makes a good terminal?
+    - Terminals are Just like Folder Browsing but more powerful
+      - Let's do a side-by-side comparison
+      - mkdir
+      - ls
+      - cd
+      - echo hello
+      - echo hello > my_file
+      - cat my_file
+    - So let's break those codes up... What are Commands and Arguments?
+
+
+###### Section 3 - All about git
+  - What it does
+  - Common Commands
+    - git init
+    - git add .
+    - git commit -m "INSERT MESSAGE DESCRIBING THE CHANGE YOU MADE TO YOUR CODE"
+  - Sharing your code on Github.com
+
+
+
+
+###### Section 4 - All about Fundamental Programming
+  - It's all just strings
+
+  From the perspective of an API developer, programming is simply reading string data, preforming some kind of logic against the string, and outputting the results of this logic step.  
+
+  - Type Primitives "It's like math and variables"
+
+  - Your first program (puts "Fancy Report")
+
+  - Methods/ Functions
 
 
 # Section 1 - How Do I Even Install Basic Web API Tools?
